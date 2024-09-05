@@ -1,7 +1,7 @@
-## Aloha, I'm Zach 🌸
+## Aloha, I'm Zach 🌺
 
 <ul>
-  <li>I am a student at University of Hawai'i at Manoa, studying <strong>Global Environmental Science</strong> 📖</li>
+  <li>I am a student at University of Hawai'i at Manoa, studying <strong>Global Environmental Science</strong> 🌎</li>
   <li>My undergraduate thesis is on land-use and water quality in the Honolulu watershed 🚰 </li>
   <li>I have hopes of becoming a data scientist one day 🥳</li>
 </ul>
