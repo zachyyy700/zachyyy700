@@ -1,4 +1,4 @@
-## Aloha, I'm Zach
+## Aloha, I'm Zach 🌸
 
 <ul>
   <li>I am a student at University of Hawai'i at Manoa, studying <strong>Global Environmental Science</strong> 📖</li>
